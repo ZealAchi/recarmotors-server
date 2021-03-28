@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: luispm
+Build-Jdk: 12.0.1
+Implementation-Title: RecarMotors
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.recarmotors
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/recarmotors
+Created-By: Maven Integration for Eclipse
+
