@@ -1,5 +1,6 @@
 eclipse.preferences.version=1
 encoding//src/main/java=UTF-8
+encoding//src/main/java/com/recarmotors/service/LoginServiceImpl.java=UTF-8
 encoding//src/main/java/com/recarmotors/shiro/UserRealm.java=UTF-8
 encoding//src/main/java/com/recarmotors/util/LongDefault0Adapter.java=UTF-8
 encoding//src/main/resources=UTF-8
